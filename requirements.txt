@@ -1,0 +1,21 @@
+# --- DATA PROCESSING ---
+pandas==2.3.3
+numpy==2.0.2
+scipy==1.13.1
+openpyxl==3.1.5
+
+# --- MACHINE LEARNING & ARM ---
+mlxtend==0.23.4         
+scikit-learn==1.6.1     
+
+# --- DEEP LEARNING (RNN/LSTM) ---
+tensorflow==2.20.0       
+keras==3.10.0            
+
+# --- VISUALIZATION ---
+matplotlib==3.9.4       
+seaborn==0.13.2          
+
+# --- UTILITIES ---
+requests==2.32.5         
+ipykernel==6.31.0        

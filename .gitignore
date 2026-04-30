@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments (Virtual Env)
+venv/
+env/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Datasets (Disarankan tidak diupload jika ukurannya besar)
+#data/*.csv
+#data/*.json
+#data/*.xlsx
+
+# Model Weights (File hasil training yang ukurannya besar)
+#*.h5
+#*.keras
+#*.pkl
+#*.pth
+
+# IDE Specific
+.vscode/
+.idea/
+
+# OS Specific
+.DS_Store
+Thumbs.db
