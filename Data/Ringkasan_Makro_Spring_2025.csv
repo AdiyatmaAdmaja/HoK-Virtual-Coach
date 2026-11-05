@@ -1,0 +1,10 @@
+Variabel Makro Musim,Data Primer,Data Liquipedia,Selisih (Diff),Status
+Total Pertandingan (Games Played),187,187 (Target: 187),0,VALID
+Total Baris Aksi Draft (18x Match),3366,3366 (Target: 3366),0,VALID
+Blue Side - Total Wins (W),84,85,-1,CEK_OUTCOME
+Blue Side - Total Losses (L),103,102,+1,CEK_OUTCOME
+Blue Side - Win Rate (WR%),44.92%,45.45%,-0.53%,CEK_OUTCOME
+Red Side - Total Wins (W),103,102,+1,CEK_OUTCOME
+Red Side - Total Losses (L),84,85,-1,CEK_OUTCOME
+Red Side - Win Rate (WR%),55.08%,54.55%,+0.53%,CEK_OUTCOME
+Rekapitulasi Sisi (Blue | Red),84W-103L (44.92%) | 103W-84L (55.08%),85W-102L (45.45%) | 102W-85L (54.55%),BERSELISIH,CEK_OUTCOME

@@ -1,4 +1,4 @@
-NO,Tanggal_Match,Match_ID,Game_Rounds,Team_Name,Team_Side,Draft_Order,Is_Ban,Hero_ID,Hero_Name,Hero_Tipe,Hero_Role,Match_Outcome
+NO,Tanggal_Match,Match_ID,Match_Sequence,Team_Name,Team_Side,Draft_Order,Is_Ban,Hero_ID,Hero_Name,Hero_Tipe,Hero_Role,Match_Outcome
 1,5/2/2025,Match_20250502_1,1,NMSS,Blue,1,TRUE,134,Dharma,Fighter,Clash_Lane,Red_Win
 2,5/2/2025,Match_20250502_1,1,DMT,Red,2,TRUE,157,Mai_Shiranui,Assasin,Mid_Lane,Red_Win
 3,5/2/2025,Match_20250502_1,1,NMSS,Blue,3,TRUE,531,Jing,Assasin,Jungler,Red_Win
